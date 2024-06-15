@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/portfolioImg.png";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Random Password Generator",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Created a web-app to solve the password creation problem. This web app is capable of producing a password of your choice such as what should be the length of your password? You want characters, numbers inlcuded in your password or not etc.",
+    url: "https://github.com/wasiqAfnan/JavaScriptMastery/tree/main/JavaScript%20-%20Projects/03_randomPasswordGenerator",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Weather-App",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Want the summary of weather in your city. Just type the name of your city and this web-app will give you all the info of the weather in your city.",
+    url: "https://github.com/wasiqAfnan/JavaScriptMastery/tree/main/JavaScript%20-%20Projects/04_weatherApp",
   },
   {
     title: "My Resume Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created using HTML, CSS, Bootstrap and JS. A portfolio site of mine which includes all my social handles and the skill sets I have.",
+    url: "https://wasiqafnan.github.io/wasiqportfolio/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Resturant Bill Generation System",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "In this project I have used java language to solve a classical problem of every small business to automate the bill generation process by giving minimal input. This is a CLI project with overall bill design.",
+    url: "https://github.com/wasiqAfnan/JavaMastery/tree/main/Projects",
   },
 ];
 
