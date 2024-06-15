@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https:wasiqafnan//github.io/resumeTemplateMicrosoft",
+  "homepage": "https://wasiqafnan.github.io/resumeTemplateMicrosoft",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
