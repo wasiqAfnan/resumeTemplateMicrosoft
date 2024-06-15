@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://wasiqafnan.github.io/resumeTemplateMicrosoft",
+  "homepage": "https://wasiqAfnan.github.io/resumeTemplateMicrosoft",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://wasiqafnan.github.io/resumeTemplateMicrosoft'",
+    "build-gh": "parcel build --public-url 'https://wasiqAfnan.github.io/resumeTemplateMicrosoft'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
